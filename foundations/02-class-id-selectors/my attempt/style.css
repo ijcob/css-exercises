@@ -1,0 +1,21 @@
+/*styles*/
+
+.odd{
+    background-color: #ff96b4;
+    font-family: Verdana, sans-serif;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#one{
+    color: #006eff;
+    font-size: 36px;
+}
+
+#another{
+    background-color: #a9f89f;
+    font-size: 24px;
+    font-weight: bold;
+}
